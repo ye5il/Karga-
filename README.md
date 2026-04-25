@@ -13,12 +13,6 @@ Türkçe Terminal Haber Okuyucu - RSS News Reader
 
 ## Kurulum
 
-### Arch Linux (AUR)
-
-```bash
-yay -S karga-bin
-```
-
 ### Manuel Kurulum
 
 ```bash
